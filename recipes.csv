@@ -1,0 +1,52 @@
+RecipeID,RecipeName,Category,Diet,CookingTime,Calories,Rating,Ingredients,Instructions
+101,Idli,Breakfast,Vegetarian,25,180,4.8,Rice Batter|Urad Dal Batter|Salt,Prepare Batter|Ferment Overnight|Steam Idlis|Serve with Chutney
+102,Masala Dosa,Breakfast,Vegetarian,35,320,4.9,Dosa Batter|Potato|Onion|Mustard Seeds|Curry Leaves,Prepare Potato Masala|Spread Batter|Cook Dosa|Fold and Serve
+103,Pongal,Breakfast,Vegetarian,30,300,4.7,Rice|Moong Dal|Pepper|Cumin|Ghee,Cook Rice and Dal|Prepare Tempering|Mix Together|Serve Hot
+104,Medu Vada,Breakfast,Vegetarian,40,290,4.8,Urad Dal|Onion|Green Chilli|Curry Leaves|Oil,Grind Dal Batter|Shape Vadas|Deep Fry|Serve
+105,Upma,Breakfast,Vegetarian,20,240,4.5,Rava|Onion|Carrot|Peas|Mustard Seeds,Roast Rava|Prepare Tempering|Cook with Water|Serve
+106,Uttapam,Breakfast,Vegetarian,25,310,4.7,Dosa Batter|Onion|Tomato|Capsicum,Prepare Batter|Add Vegetables|Cook Both Sides|Serve
+107,Pesarattu,Breakfast,Vegetarian,30,250,4.6,Green Gram|Onion|Green Chilli|Ginger,Soak Green Gram|Grind Batter|Cook on Tawa|Serve
+108,Appam,Breakfast,Vegetarian,35,260,4.7,Rice Batter|Coconut Milk|Yeast,Ferment Batter|Cook in Appam Pan|Serve
+109,Curd Rice,Lunch,Vegetarian,15,260,4.8,Rice|Curd|Milk|Mustard Seeds|Curry Leaves,Cook Rice|Mix Curd|Prepare Tempering|Serve
+110,Lemon Rice,Lunch,Vegetarian,20,280,4.6,Rice|Lemon|Peanuts|Mustard Seeds|Curry Leaves,Prepare Tempering|Add Rice|Mix Lemon Juice|Serve
+111,Tamarind Rice,Lunch,Vegetarian,25,320,4.7,Rice|Tamarind|Peanuts|Red Chilli,Prepare Tamarind Paste|Mix with Rice|Serve
+112,Coconut Rice,Lunch,Vegetarian,20,300,4.6,Rice|Grated Coconut|Mustard Seeds|Curry Leaves,Prepare Tempering|Add Coconut|Mix Rice|Serve
+113,Sambar Rice,Lunch,Vegetarian,40,360,4.8,Rice|Toor Dal|Mixed Vegetables|Sambar Powder,Cook Dal|Prepare Sambar|Mix with Rice|Serve
+114,Rasam Rice,Lunch,Vegetarian,25,240,4.6,Rice|Tomato|Tamarind|Rasam Powder,Prepare Rasam|Cook Rice|Serve Together
+115,Vegetable Kurma,Dinner,Vegetarian,40,380,4.7,Mixed Vegetables|Coconut|Cashew|Spices,Prepare Gravy|Cook Vegetables|Serve
+116,Avial,Lunch,Vegetarian,35,260,4.7,Mixed Vegetables|Curd|Coconut|Curry Leaves,Cook Vegetables|Prepare Coconut Paste|Mix Together|Serve
+117,Vegetable Stew,Dinner,Vegetarian,35,270,4.6,Potato|Carrot|Beans|Coconut Milk,Cook Vegetables|Add Coconut Milk|Serve
+118,Bisi Bele Bath,Lunch,Vegetarian,45,420,4.8,Rice|Toor Dal|Vegetables|Bisi Bele Powder,Cook Rice and Dal|Prepare Masala|Mix Together|Serve
+119,Ragi Mudde,Lunch,Vegetarian,30,280,4.5,Ragi Flour|Water|Salt,Boil Water|Add Flour|Mix Thoroughly|Serve
+120,Tomato Rice,Lunch,Vegetarian,25,310,4.6,Rice|Tomato|Onion|Spices,Prepare Tomato Masala|Mix Rice|Serve
+121,Paneer Butter Masala,Dinner,Vegetarian,40,520,4.9,Paneer|Tomato|Butter|Cream|Spices,Prepare Gravy|Add Paneer|Simmer|Serve
+122,Palak Paneer,Dinner,Vegetarian,35,430,4.8,Paneer|Spinach|Garlic|Onion|Tomato,Cook Spinach|Blend|Prepare Gravy|Add Paneer
+123,Chole,Dinner,Vegetarian,45,410,4.9,Chickpeas|Onion|Tomato|Spices,Cook Chickpeas|Prepare Masala|Serve
+124,Rajma Masala,Dinner,Vegetarian,50,420,4.8,Rajma|Onion|Tomato|Ginger|Garlic,Cook Rajma|Prepare Gravy|Serve
+125,Dal Tadka,Lunch,Vegetarian,30,310,4.7,Toor Dal|Moong Dal|Garlic|Jeera|Ghee,Cook Dal|Prepare Tadka|Mix Together|Serve
+126,Aloo Gobi,Lunch,Vegetarian,30,280,4.6,Potato|Cauliflower|Tomato|Spices,Cook Vegetables|Add Masala|Serve
+127,Bhindi Masala,Lunch,Vegetarian,25,220,4.5,Bhindi|Onion|Tomato|Spices,Cook Bhindi|Prepare Masala|Serve
+128,Kadai Paneer,Dinner,Vegetarian,35,470,4.8,Paneer|Capsicum|Onion|Tomato|Spices,Prepare Masala|Cook Paneer|Serve
+129,Malai Kofta,Dinner,Vegetarian,55,540,4.8,Paneer|Potato|Cream|Tomato,Prepare Kofta|Prepare Gravy|Serve
+130,Jeera Rice,Lunch,Vegetarian,20,250,4.5,Rice|Jeera|Ghee,Cook Rice|Temper Jeera|Mix Together|Serve
+131,Veg Pulao,Lunch,Vegetarian,35,390,4.7,Basmati Rice|Carrot|Beans|Peas|Spices,Cook Vegetables|Cook Rice Together|Serve
+132,Paneer Tikka,Dinner,Vegetarian,30,360,4.8,Paneer|Capsicum|Curd|Spices,Marinate Paneer|Grill|Serve
+133,Matar Paneer,Dinner,Vegetarian,35,410,4.7,Paneer|Peas|Tomato|Onion,Prepare Gravy|Cook Paneer|Serve
+134,Aloo Paratha,Breakfast,Vegetarian,30,350,4.8,Wheat Flour|Potato|Spices,Prepare Dough|Stuff Potato|Cook on Tawa
+135,Vegetable Biryani,Dinner,Vegetarian,50,480,4.9,Basmati Rice|Mixed Vegetables|Curd|Mint|Spices,Prepare Vegetables|Layer Rice|Dum Cook|Serve
+136,Hakka Noodles,Dinner,Vegetarian,25,430,4.6,Noodles|Carrot|Capsicum|Cabbage|Soy Sauce,Boil Noodles|Stir Fry Vegetables|Mix Together
+137,Veg Fried Rice,Lunch,Vegetarian,25,390,4.7,Rice|Carrot|Beans|Capsicum|Soy Sauce,Stir Fry Vegetables|Add Rice|Serve
+138,Gobi Manchurian,Snacks,Vegetarian,35,380,4.8,Cauliflower|Corn Flour|Garlic|Soy Sauce,Fry Cauliflower|Prepare Sauce|Mix Together
+139,Paneer Fried Rice,Dinner,Vegetarian,30,440,4.7,Rice|Paneer|Capsicum|Soy Sauce,Cook Paneer|Mix Rice|Serve
+140,Veg Spring Rolls,Snacks,Vegetarian,40,360,4.6,Spring Roll Sheets|Cabbage|Carrot|Capsicum,Prepare Filling|Roll|Deep Fry|Serve
+141,Chicken Biryani,Dinner,Non-Vegetarian,60,620,4.9,Basmati Rice|Chicken|Curd|Mint|Spices,Marinate Chicken|Cook Rice|Layer and Dum Cook
+142,Chicken Curry,Dinner,Non-Vegetarian,45,520,4.8,Chicken|Onion|Tomato|Spices,Prepare Masala|Cook Chicken|Serve
+143,Butter Chicken,Dinner,Non-Vegetarian,50,580,4.9,Chicken|Butter|Tomato|Cream,Prepare Gravy|Cook Chicken|Mix Together
+144,Chicken 65,Snacks,Non-Vegetarian,35,470,4.8,Chicken|Curd|Chilli Powder|Oil,Marinate Chicken|Deep Fry|Serve
+145,Pepper Chicken,Dinner,Non-Vegetarian,40,490,4.7,Chicken|Pepper|Onion|Spices,Cook Chicken|Add Pepper|Serve
+146,Chicken Fried Rice,Dinner,Non-Vegetarian,30,510,4.8,Rice|Chicken|Egg|Soy Sauce,Boil Rice|Cook Chicken|Mix Together
+147,Chicken Noodles,Dinner,Non-Vegetarian,30,500,4.7,Noodles|Chicken|Capsicum|Soy Sauce,Boil Noodles|Cook Chicken|Mix Together
+148,Egg Fried Rice,Lunch,Non-Vegetarian,20,420,4.6,Rice|Egg|Soy Sauce|Spring Onion,Cook Egg|Add Rice|Mix Together
+149,Egg Curry,Dinner,Non-Vegetarian,30,350,4.6,Egg|Onion|Tomato|Spices,Boil Eggs|Prepare Gravy|Add Eggs
+150,Fish Curry,Dinner,Non-Vegetarian,45,430,4.7,Fish|Tamarind|Onion|Tomato|Spices,Prepare Curry Base|Cook Fish|Serve
+151,Karam Dosa,Breakfast,Vegetarian,15,320,4.9,Karam|Batter|Ghee|Chutney,Prepare Karam|Spread Batter wiht Applying Karam|Cook and Serve
